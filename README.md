@@ -1,3 +1,3 @@
 # hello_World
 
-This is my First Git hub
+This is my First Git hub program
